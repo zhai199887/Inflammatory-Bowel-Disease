@@ -1,0 +1,31 @@
+R version 4.5.2 (2025-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26100)
+
+Matrix products: default
+  LAPACK version 3.12.1
+
+locale:
+[1] LC_COLLATE=Chinese (Simplified)_China.utf8
+[2] LC_CTYPE=Chinese (Simplified)_China.utf8
+[3] LC_MONETARY=Chinese (Simplified)_China.utf8
+[4] LC_NUMERIC=C
+[5] LC_TIME=Chinese (Simplified)_China.utf8
+
+time zone: Asia/Shanghai
+tzcode source: internal
+
+Packages used in this project (install instructions in README.md):
+  Data manipulation : dplyr, tidyr, tibble, data.table, readr, readxl,
+                      stringr, purrr, reshape2, magrittr
+  Visualization     : ggplot2, patchwork, cowplot, ggridges, ggrepel,
+                      ggraph, ggforce, ggbeeswarm, ggplotify,
+                      viridis, colorspace, RColorBrewer, scales,
+                      ggnewscale, grid, png, pdftools
+  Geospatial        : sf, rnaturalearth, rnaturalearthdata
+  Ecology/Diversity : vegan, microeco
+  Statistics        : rstatix, coin, Hmisc, boot, lmerTest
+  Machine learning  : randomForest, pROC
+  Pathway/Network   : igraph, fgsea
+  Phylogenetics     : ape, phytools, ggtree, ggtreeExtra
+  Image processing  : magick
